@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Basil Usman
 
-<p align="left">
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Location" />
-  <img src="https://shields.io" alt="Focus" />
-</p>
-
 I am an under-18 developer from Pakistan building Django websites, Python tools, and small automation scripts with Playwright. I am currently building my portfolio, looking for safe opportunities to practice my skills, help with small technical tasks, and learn from experienced developers.
 
 ---
