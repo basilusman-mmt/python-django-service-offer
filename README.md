@@ -42,6 +42,12 @@ I am an under-18 developer from Pakistan building Django websites, Python tools,
 
 If you have a small bug or want a fresh pair of eyes on a beginner-friendly code snippet, feel free to reach out!
 
+Client problem:
+Small businesses lose time tracking orders and customer information manually in spreadsheets.
+
+My solution:
+Building Python/Django web apps that securely manage customers, orders, and reports in one simple dashboard.
+
 ---
 
 ## 📫 Connect With Me
